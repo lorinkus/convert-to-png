@@ -1,0 +1,4 @@
+azure-functions
+pillow
+pdf2image
+PyPDF2
