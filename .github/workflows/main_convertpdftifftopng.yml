@@ -28,7 +28,7 @@ jobs:
 
       - name: Install dependencies into function folder
         run: |
-          pip install -r convert_to_png/requirements.txt -t convert_to_png/
+          pip install -r requirements.txt -t convert_to_png/
 
       - name: Login to Azure
         uses: azure/login@v2
